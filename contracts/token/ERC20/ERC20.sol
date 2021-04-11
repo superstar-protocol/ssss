@@ -39,7 +39,7 @@ uint256 public constant decimals = 9;
 
 uint256 private constant DECIMALS = 9;
 uint256 private constant MAX_UINT256 = ~uint256(0);
-uint256 private constant INITIAL_FRAGMENTS_SUPPLY = 100 * 9 * 9;
+uint256 private constant INITIAL_FRAGMENTS_SUPPLY = 1000000000 * 9 * 9;
 
     uint256 private _totalSupply;
 
